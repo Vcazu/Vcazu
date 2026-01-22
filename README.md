@@ -1,5 +1,24 @@
-Eu sou Vinicius Cazumba, sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação. Atualmente curso Bacharelado em Ciência da Computação, e também o Técnico em Desenvolvimento de Sistemas, o que tem me proporcionado uma base sólida tanto teórica quanto prática na área de tecnologia.Ao longo da minha formação, venho desenvolvendo aplicações web completas, participando de todas as etapas do processo de desenvolvimento desde a concepção da solução, estruturação do código e integração com bancos de dados, até a construção da interface e testes. Busco sempre escrever código organizado, legível e sustentável, aplicando boas práticas e padrões de desenvolvimento.
+<p align="center">
+Eu sou Vinicius Cazumba, sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação.
+Atualmente curso Bacharelado em Ciência da Computação e também o Técnico em Desenvolvimento de Sistemas,
+o que tem me proporcionado uma base sólida tanto teórica quanto prática na área de tecnologia.
+</p>
 
+<p align="center">
+Ao longo da minha formação, venho desenvolvendo aplicações web completas, participando de todas as etapas
+do processo de desenvolvimento, desde a concepção da solução, estruturação do código e integração com
+bancos de dados, até a construção da interface e testes.
+</p>
+
+<p align="center">
+Busco sempre escrever código organizado, legível e sustentável, aplicando boas práticas e padrões de
+desenvolvimento.
+</p>
+
+### 🔹 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔹 Back-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
