@@ -1,4 +1,9 @@
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Vinicius%20Cazumba&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
+<p align="center">
 Eu sou Vinicius Cazumba, sou estudante de Ciência da Computação e desenvolvedor Full Stack em formação.
 Atualmente curso Bacharelado em Ciência da Computação e também o Técnico em Desenvolvimento de Sistemas,
 o que tem me proporcionado uma base sólida tanto teórica quanto prática na área de tecnologia.
@@ -47,3 +52,64 @@ desenvolvimento.
 ![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
 ![Versionamento](https://img.shields.io/badge/Versionamento-000000?style=for-the-badge)
+
+
+
+
+<pre>
+const Vinicius Cazumba = {
+  cargo: "Engenheiro de Software | Full Stack Developer",
+  local: "São Paulo , São Paulo , Brasil",
+  foco: [
+    "Java 17+ e Spring Boot (APIs, microserviços, performance)",
+    "React e Next.js (Design Systems, UX, acessibilidade)",
+    "Cloud (AWS/Azure), Docker e CI/CD",
+    "Automação com n8n e integrações via APIs"
+  ],
+  objetivo:
+    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
+};
+</pre>
+<hr/>
+<pre>
+Cargos:
+- Engenheiro de Software
+- Desenvolvedor Full Stack
+- Backend (Java / Spring Boot)
+- Frontend (React / Next.js)
+
+Modelo:
+- Remoto
+- Híbrido
+- Presencial
+Local:
+São Paulo, SP — Brasil
+</pre>
+<hr/>
+
+<h2>💬✨ Vamos nos conectar ?</h2>
+
+<p align="center">
+  Cada link abre uma camada diferente da minha jornada:
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/vinicius-cazu" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vcazu" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:filipiwms@gmail.com">ViniKazu24@gmail.com</a><br>
+  🌍 <b>Disponível para trabalho remoto global</b>
+</p>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
+
